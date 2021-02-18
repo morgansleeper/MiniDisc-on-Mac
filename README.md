@@ -83,7 +83,7 @@ First, install `qt` by typing and running the following in the terminal:
 brew install qt
 ```
 
-In the summary output that Homebrew provides at the end of the installation take note of which version of `qt` was installed, since you'll need that to make the link; in the following output, for instance, the version is `5.15.2`:
+In the summary output that Homebrew provides at the end of the installation, take note of which version of `qt` was installed, since you'll need that to make the link; in the following output, for instance, the version is `5.15.2`:
 
 ```zsh
 ==> Summary
@@ -92,7 +92,7 @@ In the summary output that Homebrew provides at the end of the installation take
 
 (If for any reason you miss this, you can always re-run `brew install qt`, and Homebrew will just tell you which version you already have installed.)
 
-Now, you can create a link for `qmake` so that you can run it directly from the terminal. Type in and run the following, replacing `5.15.2` in the path with the exact version number of `qmake` you have installed:
+Now, you can create a link for `qmake` so that you can run it directly from the terminal. Type in and run the following, replacing `5.15.2` in the path with the exact version number of `qt` you have installed:
 
 For Apple Silicon/M1 Macs:
 
