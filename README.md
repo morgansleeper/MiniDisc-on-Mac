@@ -2,7 +2,7 @@
 
 The year is 2021, and — somewhat incredibly! — if you'd like to use your modern Macintosh to transfer music to a MiniDisc over USB, you're spoilt for choice!
 
-This gist aims to provide a quick guide to the different options that are out there, as well as help you get up and running with your MiniDisc-on-Mac method of choice.
+This page aims to provide a quick guide to the different options that are out there, as well as help you get up and running with your MiniDisc-on-Mac method of choice.
 
 ## The options
 
