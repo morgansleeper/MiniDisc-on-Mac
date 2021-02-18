@@ -6,7 +6,7 @@ This page aims to provide a quick guide to the different options that are out th
 
 ## The options
 
-Back in the day, transferring music to MiniDisc was only possible with proprietary Sony software, and that software was generally — with [a few exceptions!](http://minidisc.org/part_Sony_MZ-M100+RH10.html) — only available for Windows. Thanks to the incredible efforts of the contributors to the [linux-minidisc](https://wiki.physik.fu-berlin.de/linux-minidisc/doku.php) project, however, we now have an open-source way to connect to NetMD devices over USB and transfer music, edit disc and track titles, and more.
+Back in the day, transferring music to MiniDisc was only possible with proprietary Sony software, and that software was generally — with [a few exceptions!](http://minidisc.org/part_Sony_MZ-M100+RH10.html) — only available for Windows. Thanks to the efforts of the contributors to the [linux-minidisc](https://wiki.physik.fu-berlin.de/linux-minidisc/doku.php) project, however, we now have an open-source way to connect to NetMD devices over USB and transfer music, edit disc and track titles, and more.
 
 Though they vary in interface and implementation, the `linux-minidisc` project is the basis for the three main options for sending music to NetMD players from a modern Mac: **Web MiniDisc**, **Platinum-MD**, and **netmdcli**.
 
