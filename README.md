@@ -16,7 +16,7 @@ This incredible piece of engineering is by far the easiest option to use. It jus
 
 * 💎 **[Platinum-MD](https://github.com/gavinbenda/platinum-md)**
 
-Platinum-MD is a local application rather than a webapp, but otherwise offers a similar experience and feature-set to Web MiniDisc. It takes a bit more work to set-up, requiring manual installation of some necessary components through the terminal, but once that's done it provides a nicely intuitive graphical interface for easily moving music to your NetMD player.
+Platinum-MD is a local application rather than a webapp, but otherwise offers a similar experience and feature-set to Web MiniDisc. It takes a bit more work to set up, requiring manual installation of some necessary components through the terminal, but once that's done it provides a nicely intuitive graphical interface for easily moving music to your NetMD player.
 
 * \>_   **netmdcli**
 
