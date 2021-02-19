@@ -12,7 +12,7 @@ Though they vary in interface and implementation, the `linux-minidisc` project i
 
 * ☁️ **[Web MiniDisc](https://stefano.brilli.me/webminidisc/)**
 
-This incredible piece of engineering is by far the easiest option to use. It just works™! As long as you have Google Chrome installed, you can use this webapp to transfer music straight to your NetMD device over USB, in SP (standard full quality), LP2, and LP4 modes, and easily edit track and disc titles. It will even convert your audio files for you!
+This incredible piece of engineering is by far the easiest option to use. It just works™! As long as you have Google Chrome installed, you can use this webapp to transfer music straight to your NetMD device over USB, in SP (standard full quality), LP2, and LP4 modes, and easily edit track and disc titles, all without installing any software on your Mac!
 
 * 💎 **[Platinum-MD](https://github.com/gavinbenda/platinum-md)**
 
