@@ -18,7 +18,7 @@ This incredible piece of engineering is by far the easiest option to use. It jus
 
 Platinum-MD is a local application rather than a webapp, but otherwise offers a similar experience and feature-set to Web MiniDisc. It takes a bit more work to set up, requiring manual installation of some necessary components through the terminal, but once that's done it provides a nicely intuitive graphical interface for easily moving music to your NetMD player.
 
-* \>_   **netmdcli**
+* \>_   **[netmdcli](https://github.com/morgansleeper/MiniDisc-on-Mac/blob/main/README.md#installing-netmdcli-on-a-mac)**
 
 A key component of the `linux-minidisc` package, `netmdcli` is the command line tool that powers the core features of both Web MiniDisc and Platinum-MD. While it's more complicated to set up than either of the GUI options, it's also speedy, lightweight, and fun to use — and besides, it's hard to imagine a more aesthetically-appropriate way to send your music to MiniDisc than from the soft glow of a semi-transparent terminal!
 
