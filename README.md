@@ -94,13 +94,13 @@ In the summary output that Homebrew provides at the end of the installation, tak
 
 Now, you can create a link for `qmake` so that you can run it directly from the terminal. Type in and run the following, replacing `5.15.2` in the path with the exact version number of `qt` you have installed:
 
-For Apple Silicon/M1 Macs:
+-----For Apple Silicon/M1 Macs:
 
 ```zsh
 ln -s /opt/homebrew/Cellar/qt/5.15.2/bin/qmake /opt/homebrew/bin/qmake
 ```
 
-For Intel Macs:
+-----For Intel Macs:
 
 ```zsh
 ln -s /usr/local/Cellar/qt/5.15.2/bin/qmake /usr/local/bin/qmake
