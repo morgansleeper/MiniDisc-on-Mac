@@ -60,7 +60,7 @@ In the terminal, run:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-If you're using an Apple Silicon/M1 Mac, there's one more step to get Homebrew fully set up; at the end of its installation process, it will give you a few commands to copy and paste into the terminal so that you can easily use the `brew` command from any terminal window, that will look something like this:
+If you're using an Apple Silicon/M1 Mac, there's one more step to get Homebrew fully set up; at the end of its installation process, it will give you a few commands to copy and paste into the terminal so that you can easily use the `brew` command from any terminal window, that will look something like this, with your username in place of the '_______':
 
 ```zsh
 ==> Next steps:
