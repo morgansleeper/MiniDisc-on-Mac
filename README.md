@@ -60,7 +60,16 @@ In the terminal, run:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Currently, if you're using an Apple Silicon/M1 Mac, there's one more step to get Homebrew fully set up; at the end of its installation process, it will give you a command to copy and paste into the terminal so that you can easily use the `brew` command from any terminal window. Run that line of code, and you should be set!
+If you're using an Apple Silicon/M1 Mac, there's one more step to get Homebrew fully set up; at the end of its installation process, it will give you a few commands to copy and paste into the terminal so that you can easily use the `brew` command from any terminal window, that will look something like this:
+
+```zsh
+==> Next steps:
+- Add Homebrew to your PATH in /Users/_______/.zprofile:
+    echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/_______/.zprofile
+    eval $(/opt/homebrew/bin/brew shellenv)
+```
+
+Run those lines of code, and you should be set!
 
 **4. Install the dependencies for `linux-minidisc`**
 
@@ -94,13 +103,13 @@ In the summary output that Homebrew provides at the end of the installation, tak
 
 Now, you can create a link for `qmake` so that you can run it directly from the terminal. Type in and run the following, replacing `5.15.2` in the path with the exact version number of `qt` you have installed:
 
------For Apple Silicon/M1 Macs:
+— For Apple Silicon/M1 Macs:
 
 ```zsh
 ln -s /opt/homebrew/Cellar/qt/5.15.2/bin/qmake /opt/homebrew/bin/qmake
 ```
 
------For Intel Macs:
+— For Intel Macs:
 
 ```zsh
 ln -s /usr/local/Cellar/qt/5.15.2/bin/qmake /usr/local/bin/qmake
